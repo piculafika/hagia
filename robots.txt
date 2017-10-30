@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://piculafika.github.io/hagia/sitemap.xml
